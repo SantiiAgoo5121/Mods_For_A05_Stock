@@ -36,6 +36,7 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
+/system/etc/floating_feature.xml
 "
 
 ##########################################################################################
