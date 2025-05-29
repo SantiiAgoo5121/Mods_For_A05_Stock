@@ -1,9 +1,13 @@
-STOCK
+--STOCK--
+
 Screen Recorder
+
 Flagship Animations
+
 Dual Speaker, And Sounds... 
 
-CUSTOM ROM
+--CUSTOM ROM--
+
 Only Dual Speaker
 
 **Only tested in Stock with Tragic Orizon kernel**
