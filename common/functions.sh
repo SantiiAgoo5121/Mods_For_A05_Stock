@@ -148,9 +148,11 @@ mount_mirrors() {
 
 # Credits
 ui_print "**************************************"
-ui_print "*   Flagship Animations For A05   *"
+ui_print "*   Mods For Stock/Custom Rom   *"
 ui_print "**************************************"
-ui_print " "
+ui_print "The files are not mine, they are from "@smiley9000" this is just a port for KernelSU "
+ui_print ""
+ui_print ""
 
 # Check for min/max api version
 [ -z $MINAPI ] || { [ $API -lt $MINAPI ] && abort "! Your system API of $API is less than the minimum api of $MINAPI! Aborting!"; }
